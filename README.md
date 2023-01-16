@@ -1,1 +1,5 @@
-# TensorFlowDev_Coursera
+# TensorFlow Developer Professional
+
+- Coursera,
+- Udacity
+- DeepLearning.AI
